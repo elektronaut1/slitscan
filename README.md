@@ -24,7 +24,7 @@ This is not only the first release of this script but also the first script I’
 ![](https://github.com/elektronaut1/slitscan/blob/master/examples/Slitscan_20180810.jpg "Berlin, Westhafen")
 ![](https://github.com/elektronaut1/slitscan/blob/master/examples/gopr1605_230.jpg "")
 
-## Sample video
+## Sample input file
 https://github.com/elektronaut1/slitscan/blob/master/examples/DSCN3061.mov
 
 
